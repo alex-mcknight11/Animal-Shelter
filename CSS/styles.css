@@ -13,8 +13,13 @@
   text-align: left;
 }
 
+.dog h3{
+  color: brown
+}
+
 .dog img {
   width: 300px;
+
 }
 
 .sharpdog {
@@ -29,6 +34,10 @@
 
 .sharpdog p {
   text-align: left;
+}
+
+.sharpdog h3{
+  color: green;
 }
 
 .sharpdog img {
@@ -50,6 +59,11 @@
   text-align: left;
 }
 
+.thirdDog h3{
+  color: gray;
+}
+
 .thirdDog img {
   width: 300px;
+
 }
