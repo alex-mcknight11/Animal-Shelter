@@ -1,9 +1,38 @@
+
 .dog {
   font-weight: bold;
   width: 300px;
   height: auto;
+  float: left;
+  border: 1px solid black;
+  text-align: center;
 }
 
 .dog img {
+  width: 300px;
+}
+
+.sharpdog {
+  font-weight: bold;
+  float: left;
+  margin-left: 15px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.sharpdog img {
+  width: 300px;
+
+}
+
+.thirdDog {
+  font-weight: bold;
+  float: left;
+  margin-left: 15px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.thirdDog img {
   width: 300px;
 }
