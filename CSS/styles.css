@@ -1,12 +1,28 @@
 
+h1 {
+  text-align: center;
+  font-size: 50pt;
+  font-style: bold;
+}
+
+body {
+  background-color: burlywood;
+}
+
+.heading{
+  text-align: center;
+  font-weight: bold;
+}
+
 .dog {
   width: 300px;
-  height: auto;
+  height: 600px;
   float: left;
   border: 1px solid black;
   text-align: center;
   padding: 10px;
   margin-left: 15px;
+  background-color: cornsilk;
 }
 
 .dog p {
@@ -22,14 +38,21 @@
 
 }
 
+.dog a{
+  background-color: brown;
+  font-style: italic;
+  font-weight: bold;
+}
+
 .sharpdog {
   width:300px;
   float: left;
-  height: auto;
+  height: 600px;
   margin-left: 15px;
   border: 1px solid black;
   text-align: center;
   padding: 10px;
+  background-color: cornsilk;
 }
 
 .sharpdog p {
@@ -45,14 +68,21 @@
 
 }
 
+.sharpdog a{
+  background-color:green;
+  font-style: italic;
+  font-weight:bold;
+}
+
 .thirdDog {
   width:300px;
   float: left;
-  height: auto;
+  height: 600px;
   margin-left: 15px;
   border: 1px solid black;
   text-align: center;
   padding: 10px;
+  background-color: cornsilk;
 }
 
 .thirdDog p {
@@ -66,4 +96,10 @@
 .thirdDog img {
   width: 300px;
 
+}
+
+.thirdDog a{
+  background-color: gray;
+  font-style: italic;
+  font-weight: bold;
 }
