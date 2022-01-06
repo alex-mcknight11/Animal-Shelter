@@ -1,11 +1,16 @@
 
 .dog {
-  font-weight: bold;
   width: 300px;
   height: auto;
   float: left;
   border: 1px solid black;
   text-align: center;
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.dog p {
+  text-align: left;
 }
 
 .dog img {
@@ -13,11 +18,17 @@
 }
 
 .sharpdog {
-  font-weight: bold;
+  width:300px;
   float: left;
+  height: auto;
   margin-left: 15px;
   border: 1px solid black;
   text-align: center;
+  padding: 10px;
+}
+
+.sharpdog p {
+  text-align: left;
 }
 
 .sharpdog img {
@@ -26,11 +37,17 @@
 }
 
 .thirdDog {
-  font-weight: bold;
+  width:300px;
   float: left;
+  height: auto;
   margin-left: 15px;
   border: 1px solid black;
   text-align: center;
+  padding: 10px;
+}
+
+.thirdDog p {
+  text-align: left;
 }
 
 .thirdDog img {
